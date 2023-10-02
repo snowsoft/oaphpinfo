@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/phpinfo",
+    "name": "snowsoft/oaphpinfo",
     "description": "an small plugin to show phpinfo right in your open-admin enviourment.",
     "type": "library",
     "keywords": ["open-admin", "extension"],
-    "homepage": "https://github.com/open-admin-ext/phpinfo",
+    "homepage": "https://github.com/snowsoft/oaphpinfo",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "open-admin-org/open-admin": "~1.0"
+        "open-admin-org/open-admin": "~v0.01"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
